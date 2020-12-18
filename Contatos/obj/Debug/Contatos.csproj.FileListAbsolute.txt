@@ -1,0 +1,7 @@
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\bin\Debug\Contatos.exe.config
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\bin\Debug\Contatos.exe
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\bin\Debug\Contatos.pdb
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\obj\Debug\Contatos.csprojAssemblyReference.cache
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\obj\Debug\Contatos.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\obj\Debug\Contatos.exe
+C:\Users\Pedro\Documents\ISP2020\C#\Contatos\obj\Debug\Contatos.pdb
