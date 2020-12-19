@@ -19,6 +19,15 @@ namespace Contatos
 
         public Contato()
         {
+            dtNasc = new Data();
+            contatoID = 0;
+            Nome = "";
+            Email = "";
+            Telefone = "";
+            dtNasc.adicionarDtNasc();
+            
+
+
 
         }
         public Contato(int contatoID, string nome, string email, string telefone)
@@ -27,7 +36,6 @@ namespace Contatos
             Nome = nome;
             Email = email;
             Telefone = telefone;
-            dtNasc.dia = int.Parse(Console.ReadLine());
         }
 
 

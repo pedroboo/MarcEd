@@ -9,7 +9,7 @@ namespace Contatos.Controller
 {
     class Contatos
     {
-        private int qtContatos=0;
+        private int qtContatos = 0;
         private int mxContatos = 5;
         Contato[] contatos;
 
@@ -32,8 +32,11 @@ namespace Contatos.Controller
             {
 
                 contatos[qtContatos] = contato;
-                
-                qtContatos++;
+                contato.ContatoID = int.Parse(Console.ReadLine());
+
+
+
+                  qtContatos++;
                 adicioneiContato = true;
             
             }else
